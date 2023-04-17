@@ -4,3 +4,11 @@
   text-align: center;
   width: 100%;
 }
+
+.table--showColors tr:nth-child(odd) {
+  background: #333;
+}
+
+.table--showColors tr:nth-child(even) {
+  background: #555;
+}
