@@ -65,7 +65,7 @@ function App () {
 
   return (
     <div className="App">
-      <h1>Prueba Tecnica</h1>
+      <h1>Project React fetch Users</h1>
       <header>
         <button onClick={toggleColors}>Colorear filas</button>
         <button onClick={toggleShortByCountry}>{sorting === SortBy.COUNTRY ? 'No ordenar por pais' : 'Ordenar por pais' }</button>
